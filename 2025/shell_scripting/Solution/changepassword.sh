@@ -1,5 +1,5 @@
 #!/bin/bash
-#this script is to change the password
+#this script is to change the password.
 
 read -p "enter the username: " username
 
